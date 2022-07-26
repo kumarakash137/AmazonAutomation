@@ -1,0 +1,104 @@
+2022-07-26 18:15:12,443 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:15:12,543 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:15:14,516 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:15:14,517 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:15:14,577 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:15:14,709 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:15:14,709 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:23:10,115 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:23:10,263 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:23:12,317 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:23:12,318 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:23:12,391 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:23:12,470 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:23:12,471 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:24:13,598 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:24:13,698 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:24:14,470 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:24:14,471 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:24:14,534 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:24:14,607 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:24:14,607 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:24:43,908 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:24:44,034 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:24:47,144 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:24:47,145 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:24:47,205 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:24:47,291 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:24:47,292 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:26:46,920 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:26:47,392 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:26:48,453 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:26:48,454 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:26:48,508 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:26:48,576 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:26:48,576 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:27:20,806 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:27:20,935 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:27:21,872 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:27:21,873 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:27:21,943 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:27:22,038 - AmazonAutomation -INFO - Incorrect password
+2022-07-26 18:27:22,039 - AmazonAutomation -INFO - Password Test Case failed
+2022-07-26 18:27:59,197 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:27:59,335 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:28:00,092 - AmazonAutomation -INFO - Incorrect username
+2022-07-26 18:28:00,093 - AmazonAutomation -INFO - Username Test Case failed
+2022-07-26 18:33:25,262 - AmazonAutomation -INFO - Browser is: chrome
+2022-07-26 18:33:29,730 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:33:29,930 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:33:31,288 - AmazonAutomation -INFO - Incorrect username
+2022-07-26 18:33:31,289 - AmazonAutomation -INFO - Username Test Case failed
+2022-07-26 18:33:37,854 - AmazonAutomation -INFO - Browser is: firefox
+2022-07-26 18:33:44,923 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:33:45,050 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:33:45,838 - AmazonAutomation -INFO - Incorrect username
+2022-07-26 18:33:45,839 - AmazonAutomation -INFO - Username Test Case failed
+2022-07-26 18:34:32,353 - AmazonAutomation -INFO - Browser is-> chrome
+2022-07-26 18:34:35,913 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:34:36,030 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:34:36,982 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:34:36,983 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:34:37,075 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:34:37,163 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:34:37,164 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:34:42,864 - AmazonAutomation -INFO - Browser is-> firefox
+2022-07-26 18:34:47,571 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:34:47,743 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:34:49,288 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:34:49,289 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:34:49,472 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:34:51,496 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:34:51,496 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:35:51,146 - AmazonAutomation -INFO - Automation running in -> chrome
+2022-07-26 18:35:54,698 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:35:54,821 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:35:55,807 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:35:55,807 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:35:55,893 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:35:55,986 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:35:55,987 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:36:01,795 - AmazonAutomation -INFO - Automation running in -> firefox
+2022-07-26 18:36:07,009 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:36:07,066 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:36:08,070 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:36:08,070 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:36:08,095 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:36:09,678 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:36:09,679 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:37:32,178 - AmazonAutomation -INFO - Automation running in -> chrome
+2022-07-26 18:37:35,821 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:37:36,002 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:37:37,026 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:37:37,026 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:37:37,094 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:37:37,177 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:37:37,178 - AmazonAutomation -INFO - Password Test Case Pass
+2022-07-26 18:37:43,031 - AmazonAutomation -INFO - Automation running in -> firefox
+2022-07-26 18:37:49,707 - AmazonAutomation -INFO - URL is opened
+2022-07-26 18:37:49,844 - AmazonAutomation -INFO - Entered username
+2022-07-26 18:37:51,022 - AmazonAutomation -INFO - Username is correct
+2022-07-26 18:37:51,022 - AmazonAutomation -INFO - Username Test Case Pass
+2022-07-26 18:37:51,254 - AmazonAutomation -INFO - Entered password
+2022-07-26 18:37:53,519 - AmazonAutomation -INFO - Password is correct
+2022-07-26 18:37:53,519 - AmazonAutomation -INFO - Password Test Case Pass
