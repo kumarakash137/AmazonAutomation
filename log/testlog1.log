@@ -102,3 +102,1120 @@
 2022-07-26 18:37:51,254 [main] INFO AmazonAutomation - Entered password
 2022-07-26 18:37:53,519 [main] INFO AmazonAutomation - Password is correct
 2022-07-26 18:37:53,519 [main] INFO AmazonAutomation - Password Test Case Pass
+2022-07-26 19:25:26,018 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-26 19:25:31,062 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:25:31,158 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:25:32,422 [main] INFO AmazonAutomation - Username is correct
+2022-07-26 19:25:32,423 [main] INFO AmazonAutomation - Username Test Case Pass
+2022-07-26 19:25:32,485 [main] INFO AmazonAutomation - Entered password
+2022-07-26 19:25:32,560 [main] INFO AmazonAutomation - Incorrect password
+2022-07-26 19:25:32,561 [main] INFO AmazonAutomation - Password Test Case failed
+2022-07-26 19:25:39,560 [main] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-26 19:25:51,117 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:25:51,216 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:25:52,409 [main] INFO AmazonAutomation - Username is correct
+2022-07-26 19:25:52,410 [main] INFO AmazonAutomation - Username Test Case Pass
+2022-07-26 19:25:52,531 [main] INFO AmazonAutomation - Entered password
+2022-07-26 19:25:53,697 [main] INFO AmazonAutomation - Incorrect password
+2022-07-26 19:25:53,698 [main] INFO AmazonAutomation - Password Test Case failed
+2022-07-26 19:26:31,232 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-26 19:26:36,939 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:26:37,135 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:26:38,516 [main] INFO AmazonAutomation - Incorrect username
+2022-07-26 19:26:38,517 [main] INFO AmazonAutomation - Username Test Case failed
+2022-07-26 19:26:44,527 [main] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-26 19:26:51,392 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:26:51,478 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:26:52,292 [main] INFO AmazonAutomation - Incorrect username
+2022-07-26 19:26:52,293 [main] INFO AmazonAutomation - Username Test Case failed
+2022-07-26 19:52:47,252 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-26 19:52:52,583 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:52:58,477 [main] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-26 19:53:05,244 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:54:26,199 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-26 19:54:30,439 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:54:30,653 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:54:31,440 [main] INFO AmazonAutomation - Incorrect username
+2022-07-26 19:54:31,441 [main] INFO AmazonAutomation - Username Test Case failed
+2022-07-26 19:54:37,499 [main] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-26 19:54:43,454 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:54:43,656 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:54:44,550 [main] INFO AmazonAutomation - Incorrect username
+2022-07-26 19:54:44,551 [main] INFO AmazonAutomation - Username Test Case failed
+2022-07-26 19:56:36,544 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-26 19:56:40,434 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:56:40,648 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:56:41,563 [main] INFO AmazonAutomation - Username is correct
+2022-07-26 19:56:41,563 [main] INFO AmazonAutomation - Username Test Case Pass
+2022-07-26 19:56:41,630 [main] INFO AmazonAutomation - Entered password
+2022-07-26 19:56:41,717 [main] INFO AmazonAutomation - Password is correct
+2022-07-26 19:56:41,718 [main] INFO AmazonAutomation - Password Test Case Pass
+2022-07-26 19:59:06,002 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-26 19:59:09,835 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:59:10,533 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:59:11,374 [main] INFO AmazonAutomation - Username is correct
+2022-07-26 19:59:11,375 [main] INFO AmazonAutomation - Username Test Case Pass
+2022-07-26 19:59:11,453 [main] INFO AmazonAutomation - Entered password
+2022-07-26 19:59:11,553 [main] INFO AmazonAutomation - Password is correct
+2022-07-26 19:59:11,555 [main] INFO AmazonAutomation - Password Test Case Pass
+2022-07-26 19:59:20,993 [main] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-26 19:59:26,903 [main] INFO AmazonAutomation - URL is opened
+2022-07-26 19:59:27,064 [main] INFO AmazonAutomation - Entered username
+2022-07-26 19:59:28,238 [main] INFO AmazonAutomation - Username is correct
+2022-07-26 19:59:28,238 [main] INFO AmazonAutomation - Username Test Case Pass
+2022-07-26 19:59:28,308 [main] INFO AmazonAutomation - Entered password
+2022-07-26 19:59:32,858 [main] INFO AmazonAutomation - Password is correct
+2022-07-26 19:59:32,858 [main] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 13:48:52,657 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 13:48:58,586 [main] INFO AmazonAutomation - URL is opened
+2022-07-27 13:48:59,210 [main] INFO AmazonAutomation - Entered username
+2022-07-27 13:49:00,370 [main] INFO AmazonAutomation - Username is correct
+2022-07-27 13:49:00,370 [main] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 13:49:00,423 [main] INFO AmazonAutomation - Entered password
+2022-07-27 13:49:00,536 [main] INFO AmazonAutomation - Password is correct
+2022-07-27 13:49:00,537 [main] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 13:49:04,851 [main] INFO AmazonAutomation - URL is opened
+2022-07-27 13:49:10,924 [main] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 13:49:17,307 [main] INFO AmazonAutomation - URL is opened
+2022-07-27 13:49:17,513 [main] INFO AmazonAutomation - Entered username
+2022-07-27 13:49:18,920 [main] INFO AmazonAutomation - Username is correct
+2022-07-27 13:49:18,921 [main] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 13:49:19,084 [main] INFO AmazonAutomation - Entered password
+2022-07-27 13:49:21,145 [main] INFO AmazonAutomation - Password is correct
+2022-07-27 13:49:21,150 [main] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 13:49:25,183 [main] INFO AmazonAutomation - URL is opened
+2022-07-27 13:57:28,126 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 14:07:39,459 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 14:08:17,267 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 14:11:39,283 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 14:12:13,255 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 14:13:28,680 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 14:16:09,524 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 14:24:16,578 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:05:14,333 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:05:16,750 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:05:50,721 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:05:55,789 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:05:55,943 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:05:58,175 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:05:58,176 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:05:58,223 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:05:58,308 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:05:58,309 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:07:53,485 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:07:59,066 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:09:45,775 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:09:50,624 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:12:17,592 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:12:21,920 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:13:10,013 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:13:13,988 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:13:14,114 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:13:15,031 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:13:15,032 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:13:15,114 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:13:15,206 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:13:15,207 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:13:38,017 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:13:42,100 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:13:42,226 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:13:43,003 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:13:43,004 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:13:43,057 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:13:43,123 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:13:43,123 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:16:43,047 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:16:47,286 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:16:48,394 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:16:49,900 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:16:49,901 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:16:50,283 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:16:50,454 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:16:50,455 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:16:51,577 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:18:24,995 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:18:29,078 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:18:29,284 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:18:30,947 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:18:30,948 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:18:31,030 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:18:31,211 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:18:31,212 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:18:33,369 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:18:33,792 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 16:35:31,175 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:35:37,897 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - AtlasURL is opened
+2022-07-27 16:35:37,898 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:35:54,503 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:36:00,453 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - AtlasURL is opened
+2022-07-27 16:36:00,454 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:37:04,754 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:37:06,939 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:37:09,796 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:37:09,900 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 16:37:30,482 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:37:34,636 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:37:34,801 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:37:36,161 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:37:36,162 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:37:36,268 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:37:36,381 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:37:36,381 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:37:38,466 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:37:38,578 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 16:38:34,671 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:38:39,318 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:38:39,429 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:38:43,662 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:38:43,662 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:38:43,776 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:38:43,857 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:38:44,054 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:38:44,055 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:40:32,230 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:40:35,906 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:40:36,106 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:40:37,457 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:40:37,460 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:40:37,596 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:40:37,747 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:40:37,749 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:40:41,606 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:41:32,227 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:41:35,936 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:41:38,814 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:46:14,787 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:46:18,784 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:46:18,947 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:46:20,166 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:46:20,170 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:46:20,222 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:46:20,312 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:46:20,439 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:46:20,440 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:46:54,281 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:47:02,033 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:47:03,055 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:48:32,432 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 16:48:36,318 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:48:39,564 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:50:06,452 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 16:50:30,326 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 16:50:36,855 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:50:37,106 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:50:38,470 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:50:38,471 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:50:38,522 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:50:40,051 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:50:40,052 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:51:37,911 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 16:51:43,597 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:51:43,962 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:51:44,910 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:51:44,911 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:51:45,027 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:51:46,953 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:51:46,953 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:51:52,449 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:54:55,132 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 16:55:02,842 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:55:03,223 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 16:55:05,886 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 16:55:05,887 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 16:55:06,094 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 16:55:11,005 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 16:55:13,446 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 16:55:13,447 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 16:56:52,574 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 16:57:00,861 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 16:57:03,801 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:00:06,586 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 17:00:12,575 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:00:12,669 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:00:13,864 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:00:13,865 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:00:13,882 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:00:15,412 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:00:15,413 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:00:21,756 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:00:24,539 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:00:24,631 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:00:26,223 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:00:26,223 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:00:26,300 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:00:26,416 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:00:26,416 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:00:34,035 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:04:55,459 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-27 17:05:04,985 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:05:05,389 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:05:06,748 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:05:06,748 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:05:06,798 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:05:08,563 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:05:08,564 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:05:12,245 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:06:10,456 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:06:15,506 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:06:15,708 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:06:17,101 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:06:17,102 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:06:17,191 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:06:17,327 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:06:17,328 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:06:18,955 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:11:11,022 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:11:17,409 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:11:18,265 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:11:18,818 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:11:19,638 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:11:19,638 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:11:19,759 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:11:19,865 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:11:19,866 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:12:04,335 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:12:11,233 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:12:11,835 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:12:11,887 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:12:12,881 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:12:12,881 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:12:12,981 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:12:13,054 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:12:13,056 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:13:25,247 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:13:30,438 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:13:30,730 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:13:32,275 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:13:32,275 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:13:32,390 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:13:32,414 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:13:32,529 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:13:32,530 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:14:23,102 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:14:28,983 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:14:29,494 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:14:29,688 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:14:29,763 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 17:14:30,672 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:14:30,674 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:14:55,950 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:15:01,216 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:15:01,752 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:15:02,745 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:15:02,943 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:15:02,944 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:15:03,037 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:15:03,125 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:15:03,126 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:15:18,277 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:15:23,621 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:15:23,807 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:15:25,049 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:15:25,049 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:15:25,183 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:15:25,303 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:15:25,303 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:15:25,362 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:45:45,394 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:45:50,566 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:45:50,650 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:45:51,476 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:45:51,476 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:45:51,531 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:45:51,602 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:45:51,603 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:47:46,826 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:47:52,577 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:47:53,038 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:47:54,058 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:47:54,059 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:47:54,113 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:47:54,172 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:47:54,172 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:48:32,407 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:48:38,109 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:48:38,281 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:48:39,098 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:48:39,392 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:48:39,393 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:48:39,504 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:48:39,575 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:48:39,575 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 17:49:00,612 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 17:49:06,168 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 17:49:06,281 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 17:49:06,557 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 17:49:07,471 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 17:49:07,471 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 17:49:07,555 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 17:49:07,620 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 17:49:07,620 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:00:22,699 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:00:29,034 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 18:00:29,295 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 18:00:29,671 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 18:00:30,744 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 18:00:30,745 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 18:00:30,845 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 18:00:30,943 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 18:00:30,943 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:41:52,229 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:41:58,317 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 18:41:59,391 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 18:41:59,940 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 18:42:00,813 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 18:42:00,814 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 18:42:00,967 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 18:42:01,173 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 18:42:01,174 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:42:19,346 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:42:25,236 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 18:42:26,182 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 18:42:26,284 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 18:42:27,322 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 18:42:27,324 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 18:42:27,479 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 18:42:27,594 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 18:42:27,594 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:45:02,170 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:45:09,061 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 18:45:09,352 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 18:45:09,851 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 18:45:10,922 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 18:45:10,923 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 18:45:11,022 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 18:45:11,116 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 18:45:11,117 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:48:33,277 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:48:38,865 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 18:48:39,143 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 18:48:40,917 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 18:48:40,918 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 18:48:41,015 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 18:48:41,219 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 18:48:41,220 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:48:42,592 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 18:49:46,938 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:49:51,851 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 18:49:52,722 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 18:49:53,911 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 18:49:53,912 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 18:49:53,997 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 18:49:54,112 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 18:49:54,113 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:49:57,224 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 18:52:09,137 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:52:15,471 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 18:52:16,191 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 18:52:17,405 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 18:52:17,406 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 18:52:17,485 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 18:52:17,550 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 18:52:17,551 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 18:52:19,609 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 18:53:55,539 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 18:54:05,706 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:07:34,563 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:07:42,605 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:07:42,711 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:07:43,741 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Incorrect username
+2022-07-27 19:07:43,742 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case failed
+2022-07-27 19:07:45,058 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:13:01,049 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:13:06,576 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:13:06,802 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:13:08,758 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:13:08,759 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:13:08,830 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:13:09,013 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:13:09,014 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:13:11,326 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:18:04,083 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:18:10,496 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:18:10,712 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:18:11,928 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:18:11,928 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:18:12,011 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:18:12,082 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:18:12,082 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:18:12,301 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:18:35,479 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:18:41,589 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:18:41,828 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:18:42,800 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:18:42,801 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:18:42,883 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:18:42,957 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:18:42,957 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:18:44,751 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:20:09,173 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:20:15,260 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:20:15,507 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 19:20:16,458 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 19:20:16,459 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:20:16,521 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered password
+2022-07-27 19:20:16,616 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Password is correct
+2022-07-27 19:20:16,617 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:20:19,237 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:28:00,250 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:28:06,949 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:28:07,041 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:28:08,021 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:28:08,021 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:28:08,079 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:28:08,148 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:28:08,148 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:28:09,367 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:29:13,489 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:29:20,248 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:29:20,380 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:29:21,514 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:29:21,515 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:29:21,560 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:29:21,623 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:29:21,623 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:29:23,407 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:29:45,863 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:29:53,236 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:29:53,473 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:29:54,688 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:29:54,689 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:29:54,775 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:29:54,899 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:29:54,899 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:29:55,836 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:30:37,343 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:30:44,214 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:30:44,447 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 19:30:45,886 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 19:30:45,886 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:30:45,964 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered password
+2022-07-27 19:30:46,025 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Password is correct
+2022-07-27 19:30:46,026 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:30:47,417 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:31:10,262 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:31:16,735 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:31:16,920 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:31:18,105 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:31:18,107 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:31:18,201 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:31:18,296 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:31:18,296 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:31:20,251 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:35:12,414 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:35:18,742 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:35:18,961 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:35:20,503 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:35:20,504 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:35:20,610 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:35:20,693 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:35:20,694 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:35:23,532 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:36:12,486 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:36:20,384 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:36:20,555 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:36:21,476 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:36:21,763 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:36:21,763 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:36:21,861 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:36:21,952 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:36:21,952 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:37:39,941 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:37:47,230 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:37:47,356 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:37:47,430 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 19:37:47,465 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:37:48,404 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:37:48,405 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:40:45,623 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:40:50,787 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:40:51,292 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:40:51,431 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:40:51,532 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 19:40:52,408 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:40:52,408 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:43:01,834 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:43:08,298 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:43:09,097 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:43:09,314 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 19:43:09,390 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:43:10,453 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:43:10,454 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:55:02,806 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:55:09,577 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:55:09,924 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:55:10,509 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 19:55:10,942 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:55:12,003 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:55:12,004 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:55:12,078 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:55:12,185 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:55:12,185 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:58:10,048 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 19:58:16,570 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 19:58:17,383 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 19:58:18,958 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 19:58:18,960 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 19:58:19,061 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 19:58:19,382 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 19:58:19,383 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 19:58:19,509 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 19:58:20,232 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:00:05,139 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:00:11,908 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:00:12,322 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:00:13,928 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:00:15,123 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:00:15,124 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:00:15,215 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:00:15,341 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:00:15,342 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:01:21,612 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:01:30,215 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:01:30,515 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:01:30,666 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:01:30,814 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:01:31,843 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:01:31,844 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:01:31,911 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:01:31,982 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:01:31,983 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:17:22,802 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:17:28,926 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:17:29,683 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:17:29,881 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:17:31,273 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:17:31,273 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:18:49,068 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:18:55,812 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:18:56,080 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:18:57,052 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:18:57,111 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:18:57,112 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:18:57,191 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:18:57,299 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:18:57,299 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:24:07,569 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:24:13,968 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:24:14,368 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:24:15,314 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:24:15,785 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:24:15,785 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:24:15,931 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:24:15,954 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:24:16,126 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:24:16,126 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:25:01,856 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:25:07,766 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:25:07,970 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:25:09,040 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:25:09,040 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:25:09,112 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:25:09,230 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:25:09,230 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:25:09,359 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:25:09,761 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:25:09,889 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:25:09,889 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:27:10,288 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:27:17,360 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:27:17,544 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:27:19,520 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:27:19,521 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:27:19,675 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:27:19,970 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:27:19,970 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:27:20,165 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:27:20,591 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:27:20,746 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:27:20,747 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:31:21,407 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:31:28,151 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:31:28,433 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:31:28,461 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:31:29,458 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:31:29,707 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:31:29,708 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:31:29,748 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:31:29,749 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:31:29,871 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:31:29,973 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:31:29,976 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:32:49,812 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:32:57,490 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:32:57,865 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:32:59,060 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:32:59,061 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:32:59,148 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:32:59,199 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:32:59,376 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:32:59,380 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:32:59,748 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:32:59,865 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:32:59,866 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:42:57,824 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:43:04,152 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:43:04,422 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:43:05,676 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:43:06,309 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:43:06,355 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:43:06,356 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:43:06,480 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:43:06,526 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:43:06,526 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:43:06,664 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:43:06,665 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:43:09,598 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered password
+2022-07-27 20:48:27,640 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:48:35,004 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:48:35,497 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:48:35,674 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:48:35,675 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:48:35,800 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:48:35,972 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:48:38,091 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:48:38,092 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:48:38,169 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:48:38,261 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:48:38,261 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:49:48,265 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:49:54,029 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:49:54,276 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:49:55,631 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:49:55,992 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:49:55,992 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:49:56,082 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:49:56,206 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:49:56,224 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:49:56,226 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:49:56,445 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:49:56,447 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:52:43,891 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:52:51,651 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:52:51,925 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:52:53,205 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:52:53,451 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:52:53,554 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:52:53,555 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:52:53,645 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:52:53,646 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:52:53,728 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:52:53,856 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:52:53,857 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:53:33,377 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:53:38,882 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:53:39,463 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:53:40,681 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:53:40,682 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:53:40,887 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:53:41,115 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:53:41,116 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:53:41,212 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:53:41,763 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:53:42,402 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:53:42,406 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:54:51,464 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:54:58,985 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:54:59,143 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:54:59,496 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:54:59,875 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:55:00,069 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:55:00,070 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:55:00,309 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:55:00,309 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:55:00,407 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:55:00,537 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:55:00,537 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:55:02,140 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered password
+2022-07-27 20:55:02,198 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Incorrect password
+2022-07-27 20:55:02,199 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Password Test Case failed
+2022-07-27 20:58:07,304 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-27 20:58:14,840 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-27 20:58:15,117 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-27 20:58:15,509 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-27 20:58:15,877 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-27 20:58:16,047 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-27 20:58:16,048 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:58:16,658 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-27 20:58:16,659 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-27 20:58:16,820 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-27 20:58:16,938 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-27 20:58:16,939 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-27 20:58:18,134 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered password
+2022-07-27 20:58:18,259 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Incorrect password
+2022-07-27 20:58:18,260 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Password Test Case failed
+2022-07-28 06:15:43,993 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:15:49,932 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - URL is opened
+2022-07-28 06:15:50,030 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered username
+2022-07-28 06:15:50,270 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - URL is opened
+2022-07-28 06:15:50,594 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered username
+2022-07-28 06:15:50,735 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username is correct
+2022-07-28 06:15:50,736 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Username Test Case Pass
+2022-07-28 06:15:52,811 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Entered password
+2022-07-28 06:15:52,852 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Incorrect password
+2022-07-28 06:15:52,853 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Password Test Case failed
+2022-07-28 06:15:53,442 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username is correct
+2022-07-28 06:15:53,442 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Username Test Case Pass
+2022-07-28 06:15:53,506 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Entered password
+2022-07-28 06:15:53,584 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password is correct
+2022-07-28 06:15:53,585 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Password Test Case Pass
+2022-07-28 06:26:03,300 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:26:07,732 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon URL is Opened
+2022-07-28 06:26:07,891 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:26:09,196 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:26:09,197 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:26:09,332 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:26:09,460 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:26:09,460 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:26:09,864 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian URL is Opened
+2022-07-28 06:26:10,075 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:26:10,143 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:26:10,144 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:26:12,212 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:26:12,250 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 06:26:12,250 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 06:29:24,859 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:29:31,125 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:29:31,189 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:29:31,241 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:29:31,461 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:29:31,540 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:29:31,540 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:29:32,490 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:29:32,491 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:29:32,552 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:29:32,620 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:29:32,621 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:29:33,636 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:29:33,682 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 06:29:33,682 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 06:30:19,858 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:30:26,023 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:30:26,166 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:30:26,373 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:30:26,590 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:30:26,665 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:30:26,666 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:30:27,653 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:30:27,654 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:30:27,722 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:30:27,784 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:30:27,785 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:30:28,747 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:30:28,808 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 06:30:28,808 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 06:33:08,288 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:33:14,659 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:33:14,943 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:33:15,020 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:33:15,021 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:33:15,146 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:33:15,218 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:33:17,105 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:33:17,151 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 06:33:17,151 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 06:33:20,654 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:33:20,655 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:33:20,734 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:33:20,843 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:33:20,844 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:33:26,546 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:33:33,273 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:33:33,973 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:33:34,125 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:33:34,125 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:33:36,298 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:33:36,412 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 06:33:36,414 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 06:33:37,508 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:33:37,643 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:33:38,399 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:33:38,399 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:34:08,693 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:34:14,608 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:34:14,751 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:34:15,958 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:34:16,410 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:34:16,553 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:34:16,554 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:34:16,752 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:34:16,755 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:34:16,868 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:34:16,957 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:34:16,958 [TestNG-test=Firefox Test-1] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:34:18,661 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:34:18,701 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 06:34:18,701 [TestNG-test=Firefox Test-2] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 06:34:24,390 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> firefox
+2022-07-28 06:34:34,685 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:34:35,005 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:34:35,328 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:34:35,329 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:34:35,709 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:34:35,829 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:34:37,418 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:34:37,660 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 06:34:37,660 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 06:34:40,324 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:34:40,324 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:34:40,413 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:34:45,486 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:34:45,488 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:36:34,932 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:36:41,792 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:36:41,976 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:36:42,622 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:36:42,916 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:36:42,917 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:36:42,958 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:36:42,989 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:36:43,039 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:36:43,039 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:36:43,083 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:36:43,083 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:36:45,129 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:36:45,183 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 06:36:45,183 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 06:48:19,611 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:48:26,520 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:48:26,629 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:48:27,227 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:48:27,461 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:48:27,536 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:48:27,537 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:48:27,682 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:48:27,683 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:48:27,736 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:48:27,804 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 06:48:27,805 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 06:48:29,634 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:48:29,682 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 06:48:29,682 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 06:53:23,114 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 06:53:27,756 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 06:53:28,575 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 06:53:29,598 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 06:53:29,598 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 06:53:29,673 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 06:53:29,740 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 06:53:29,741 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 06:53:29,796 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 06:53:30,011 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 06:53:30,099 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 06:53:30,100 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 06:53:32,181 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 06:53:32,217 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 06:53:32,217 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 10:07:51,963 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:08:05,143 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:08:07,447 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:08:09,500 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:08:11,091 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:08:11,214 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:08:11,215 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:08:11,613 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:08:11,657 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:08:11,658 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:08:12,104 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is correct
+2022-07-28 10:08:12,106 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Pass
+2022-07-28 10:08:14,203 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:08:14,439 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Password is Correct
+2022-07-28 10:08:14,441 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Pass
+2022-07-28 10:09:29,178 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:09:42,150 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:09:44,254 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:09:45,083 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:09:46,675 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:09:46,677 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:09:46,925 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:09:47,123 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:09:47,359 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:09:47,359 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:09:47,672 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 10:09:47,674 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 10:09:50,170 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:09:50,547 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 10:09:50,548 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 10:13:31,433 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:13:44,254 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:13:47,435 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:13:47,963 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:13:49,515 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:13:49,617 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:13:49,618 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:13:50,009 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:13:50,010 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:13:50,034 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:13:50,536 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 10:13:50,537 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 10:13:52,918 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:13:53,106 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 10:13:53,107 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 10:15:39,123 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:15:51,474 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:15:52,086 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:15:55,293 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:15:56,330 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:15:56,331 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:15:56,707 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:15:57,307 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:15:57,662 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:15:57,663 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:15:58,815 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 10:15:58,815 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 10:16:00,553 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:16:00,920 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 10:16:00,921 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 10:19:36,087 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:19:49,411 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:19:51,873 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:19:53,954 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:19:53,955 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:19:54,766 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:19:55,311 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:19:55,588 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 10:19:55,590 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 10:19:57,965 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:19:58,854 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:19:58,856 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:20:01,441 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:20:01,578 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 10:20:01,579 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 10:21:13,585 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:21:27,026 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:21:30,053 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:21:31,401 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:21:32,924 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:21:33,016 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:21:33,018 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:21:33,458 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:21:33,459 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:21:33,540 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:21:34,039 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 10:21:34,040 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 10:21:36,458 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:21:36,840 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 10:21:36,841 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 10:23:40,094 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:23:59,502 [main] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:24:01,531 [main] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:24:02,208 [main] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:24:02,210 [main] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:24:04,619 [main] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:24:04,753 [main] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 10:24:04,754 [main] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 10:24:15,635 [main] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:24:15,979 [main] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:24:20,561 [main] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:24:20,564 [main] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:24:20,851 [main] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:24:21,179 [main] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 10:24:21,181 [main] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 10:25:07,617 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 10:25:19,519 [main] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 10:25:21,317 [main] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 10:25:22,816 [main] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 10:25:22,817 [main] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 10:25:23,042 [main] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 10:25:23,481 [main] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 10:25:23,482 [main] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 10:25:31,748 [main] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 10:25:32,726 [main] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 10:25:33,021 [main] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 10:25:33,023 [main] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 10:25:35,387 [main] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 10:25:35,625 [main] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 10:25:35,626 [main] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 11:04:30,242 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 11:04:37,209 [main] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:04:37,433 [main] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:04:38,444 [main] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 11:04:38,445 [main] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 11:04:38,549 [main] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 11:04:40,266 [main] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 11:04:40,266 [main] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 11:04:44,630 [main] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 11:04:44,850 [main] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 11:04:44,923 [main] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 11:04:44,923 [main] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 11:04:47,029 [main] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 11:04:47,076 [main] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 11:04:47,077 [main] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 11:04:59,561 [main] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 11:05:11,927 [main] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:05:12,034 [main] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:05:15,527 [main] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 11:05:15,527 [main] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 11:05:15,601 [main] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 11:05:15,780 [main] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 11:05:15,780 [main] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 11:05:21,977 [main] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 11:11:06,642 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 11:11:12,693 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:11:12,922 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:11:13,495 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 11:11:13,964 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 11:11:13,965 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 11:11:14,020 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 11:11:14,055 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 11:11:14,134 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 11:11:14,134 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 11:11:14,167 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 11:11:14,168 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 11:11:16,282 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 11:11:16,336 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 11:11:16,337 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 11:13:45,310 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 11:13:50,279 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:13:50,499 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:13:51,968 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 11:13:51,969 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 11:13:52,173 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 11:13:52,494 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 11:13:52,494 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 11:13:54,276 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 11:13:54,507 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 11:13:54,580 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 11:13:54,580 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 11:13:56,678 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 11:13:56,722 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 11:13:56,722 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 11:15:01,297 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 11:15:07,585 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:15:07,897 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:15:09,057 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 11:15:09,058 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 11:15:09,188 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Entered Password
+2022-07-28 11:15:09,324 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password is Incorrect
+2022-07-28 11:15:09,325 [TestNG-test=Chrome Test-1] INFO AmazonAutomation - Amazon User Password Test Case Failed
+2022-07-28 11:15:09,456 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 11:15:09,863 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 11:15:10,001 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 11:15:10,005 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 11:15:12,085 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 11:15:12,127 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 11:15:12,127 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 11:17:34,068 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Automation running in -> chrome
+2022-07-28 11:17:38,318 [TestNG-methods-3] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:17:39,510 [TestNG-methods-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:17:40,577 [TestNG-methods-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:17:40,712 [TestNG-methods-3] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:17:40,758 [TestNG-methods-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:17:40,824 [TestNG-methods-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:17:41,854 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Login URL is Opened
+2022-07-28 11:17:41,908 [TestNG-methods-3] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 11:17:41,909 [TestNG-methods-3] INFO AmazonAutomation - Amazon Username Test Case Pass
+2022-07-28 11:17:42,205 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Username
+2022-07-28 11:17:42,307 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username is Correct
+2022-07-28 11:17:42,308 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Username Test Case Pass
+2022-07-28 11:17:42,811 [TestNG-methods-2] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:17:43,565 [TestNG-methods-1] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:17:44,284 [TestNG-methods-3] INFO AmazonAutomation - Amazon Login URL is Opened
+2022-07-28 11:17:44,369 [TestNG-methods-2] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:17:44,441 [TestNG-methods-1] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:17:44,465 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Entered Password
+2022-07-28 11:17:44,489 [TestNG-methods-3] INFO AmazonAutomation - Amazon User Entered Username
+2022-07-28 11:17:44,537 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian User Incorrect Password
+2022-07-28 11:17:44,538 [TestNG-test=Chrome Test-2] INFO AmazonAutomation - Atlassian Password Test Case Failed
+2022-07-28 11:17:45,306 [TestNG-methods-2] INFO AmazonAutomation - Amazon Username is Correct
+2022-07-28 11:17:45,306 [TestNG-methods-2] INFO AmazonAutomation - Amazon Username Test Case Pass

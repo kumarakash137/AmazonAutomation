@@ -43,5 +43,16 @@ public class ReadConfig {
 		String firefoxpath = pro.getProperty("firefoxpath");
 		return firefoxpath;
 	}
-
+	public String getatlassianURL() {
+		String url = pro.getProperty("atlassianURL");
+		return url;
+	}
+	public String getEmail() {
+		String email = pro.getProperty("email");
+		return email;
+	}
+	public String getAtlassianpw() {
+		String pwd = pro.getProperty("atlassianpw");
+		return pwd;
+	}
 }

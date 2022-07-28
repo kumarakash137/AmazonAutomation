@@ -21,10 +21,13 @@ public class Baseclass {
 
 	ReadConfig readconfig = new ReadConfig();
 	public String baseURL = readconfig.getApplicationURL();
+	public String atlassianURL = readconfig.getatlassianURL();
 	public String username = readconfig.getUsername();
 	public String password = readconfig.getPassword();
+	public String email = readconfig.getEmail();
+	public String pwd = readconfig.getAtlassianpw();
 	public static WebDriver driver;
-
+	public static WebDriver newdriver;
 	public static Logger Logger;
 
 	@Parameters("browser")
@@ -35,12 +38,14 @@ public class Baseclass {
 		Logger.info("Automation running in -> "+ br);
 		if (br.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver", readconfig.getChromePath());
+			newdriver = new ChromeDriver();
 			driver = new ChromeDriver();
 		} else if (br.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver", readconfig.getFirefoxPath());
 			driver = new FirefoxDriver();
+			newdriver = new FirefoxDriver();
 		}
-		driver.get(baseURL);
+		
 	}
 
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
