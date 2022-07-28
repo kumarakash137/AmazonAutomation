@@ -20,7 +20,7 @@ public class Testcase extends Baseclass {
 		lp.setUsername(username);
 		Logger.info("Amazon User Entered Username");
 		lp.clickcontinue();
-		if (username.equals("7409974567")) {
+		if (username.equals("000000000000")) {
 			Assert.assertTrue(true);
 			Logger.info("Amazon Username is Correct");
 			Logger.info("Amazon Username Test Case Pass");
@@ -38,7 +38,7 @@ public class Testcase extends Baseclass {
 		lp.clicksignInSubmit();
 		
 
-		if (password.equals("Akash@137")) {
+		if (password.equals("000000000")) {
 			Assert.assertTrue(true);
 			Logger.info("Amazon User Password is correct");
 			Logger.info("Amazon User Password Test Case Pass");
@@ -57,7 +57,7 @@ public class Testcase extends Baseclass {
 		lc.setUsername(email);
 		Logger.info("Atlassian User Entered Username");
 		lc.clicknext();
-		if (email.equals("akashku@leewayhertz.com")) {
+		if (email.equals("0000000000000")) {
 			Assert.assertTrue(true);
 			Logger.info("Atlassian Username is Correct");
 			Logger.info("Atlassian Username Test Case Pass");
@@ -76,7 +76,7 @@ public class Testcase extends Baseclass {
 		lc.clicksignInSubmit();
 		
 
-		if (pwd.equals("leewayhertz@akash")) {
+		if (pwd.equals("000000000000000")) {
 			Assert.assertTrue(true);
 			Logger.info("Atlassian User Password is Correct");
 			Logger.info("Atlassian Password Test Case Pass");
