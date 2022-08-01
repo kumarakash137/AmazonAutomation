@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="AmazonAutomation" >
+<suite name="AmazonAutomation" parallel="methods" thread-count="2">
         <!-- parallel="methods" thread-count="2" -->
 <listeners>
 <listener class-name="com.utilities.Reporting"/>
@@ -14,13 +14,13 @@
 
 	</test>
 	
-<!-- <test name="Firefox Test">
+<test name="Firefox Test">
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="com.testcases.Testcase" />
 
 		</classes>
 
-	</test> -->
+	</test>
 
 </suite >
